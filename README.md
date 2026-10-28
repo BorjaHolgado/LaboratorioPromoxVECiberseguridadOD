@@ -9,12 +9,12 @@ Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 User name: root
 Password: xxxxx
 <br>
-Name: Aron Gomez
-User name: agvillena@pve
-Password: xxxxx
+Name: Aron Gomez <br>
+User name: agvillena@pve <br>
+Password: xxxxx <br>
 <br>
-Name: Diana Del Valle
-User name: dvalle@pve
-Password: xxxxx
+Name: Diana Del Valle <br>
+User name: dvalle@pve <br>
+Password: xxxxx <br>
 
 
