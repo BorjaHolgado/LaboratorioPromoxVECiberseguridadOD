@@ -6,15 +6,21 @@ Nombre Host: SRVESMA01 <br>
 Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 
 --Roles AdminUsers-- <br><br>
-User name: root <br>
+Username: root <br>
 Password: xxxxx<br>
 <br>
 Name: Aron Gomez <br>
-User name: agvillena@pve <br>
+Username: agvillena@pve <br>
 Password: xxxxx <br>
 <br>
 Name: Diana Del Valle <br>
-User name: dvalle@pve <br>
+Username: dvalle@pve <br>
 Password: xxxxx <br>
+
+--Roles Users-- <br><br>
+Name: Borja Holgado <br>
+Username: bholgado@pve <br>
+Password: xxxxx <br>
+
 
 
