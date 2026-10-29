@@ -5,7 +5,7 @@ Descripcion:
 Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01.
 La finalidad de este proyecto, es la elaboración de un entorno de pruebas, en una maquina con entorno virtualizado y la división de tareas a cada alumno.
 
-Características Tecnicas:
+Características Técnicas de la maquina:
 
 Version de Promax: Virtual Environment 8.3.0 <br>
 Nombre Host: <b>SRVESMA01</b> <br>
