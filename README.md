@@ -21,7 +21,7 @@ Roles de usuario creados y el papel que desempeña cada usuario en el proyecto.
 Grupos: AdminUsers <br>
 Grupos: UsuariosNormales
 
---Roles AdminUsers-- <br><br>
+--Roles -- Grupos: AdminUsers  <br><br>
 Username: root <br>
 Password: xxxxx<br>
 <br>
@@ -33,7 +33,7 @@ Name - <b>System Administrator:</b> Diana Del Valle <br>
 Username: dvalle@pve <br>
 Password: xxxxx <br>
 
---Roles Users-- <br><br>
+--Roles -- Grupos: UsuariosNormales<br><br>
 Name - <b>Redactor Técnico:</b> Borja Holgado <br>
 Username: bholgado@pve <br>
 Password: xxxxx <br>
