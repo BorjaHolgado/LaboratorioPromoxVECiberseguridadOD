@@ -7,6 +7,8 @@ Nombre Host: <b>SRVESMA01</b> <br>
 DNS: 9.9.9.9 <br>
 Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 
+Grupos: AdminUsers
+Grupos: UsuariosNormales
 
 --Roles AdminUsers-- <br><br>
 Username: root <br>
