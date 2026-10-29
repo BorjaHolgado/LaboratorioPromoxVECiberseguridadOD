@@ -1,18 +1,22 @@
 # LaboratorioPromoxVECiberseguridadOD
 
-# Descripcion:
+# Descripcion del Proyecto:
 
 Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01.
 La finalidad de este proyecto, es la elaboración de un entorno de pruebas, en una maquina con entorno virtualizado y la división de tareas a cada alumno.
 
 # Características Técnicas de la maquina:
 
+Esta es al version del producto instalado de la version Proxmox y la forma de conexion.
+
 Version de Promax: Virtual Environment 8.3.0 <br>
 Nombre Host: <b>SRVESMA01</b> <br>
 DNS: 9.9.9.9 <br>
 Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 
-# Equipo y Rolles
+# Equipo y Roles:
+
+Roles de usuario creados y el papel que desempeña cada usuario en el proyecto.
 
 Grupos: AdminUsers <br>
 Grupos: UsuariosNormales
