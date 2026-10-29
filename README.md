@@ -27,11 +27,11 @@ Password: xxxxx <br>
 
 -Roles Users de Test-
 
-Name - <b>Quality Assurance Engineer:</b> Roberto <br>
+Name - <b>Tester de Software:</b> Roberto <br>
 Username: roberto@pve <br>
 Password: xxxxx <br>
 
-Name: Matias <br>
+Name - <b>Tester de Software: Matias <br>
 Username: matias@pve <br>
 Password: xxxxx <br>
 
