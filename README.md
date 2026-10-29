@@ -11,11 +11,11 @@ Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 Username: root <br>
 Password: xxxxx<br>
 <br>
-Name: Aron Gomez <br>
+Name - System Administrator: Aron Gomez <br>
 Username: agvillena@pve <br>
 Password: xxxxx <br>
 <br>
-Name: Diana Del Valle <br>
+Name - System Administrator: Diana Del Valle <br>
 Username: dvalle@pve <br>
 Password: xxxxx <br>
 
