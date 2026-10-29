@@ -1,5 +1,6 @@
 # LaboratorioPromoxVECiberseguridadOD
-Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01
+Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01.
+La finalidad de este proyecto, es la elaboración de un entorno de pruebas, en una maquina con entorno virtualizado y la división de tareas a cada alumno.
 
 Version de Promax: Virtual Environment 8.3.0 <br>
 Nombre Host: <b>SRVESMA01</b> <br>
@@ -11,11 +12,11 @@ Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 Username: root <br>
 Password: xxxxx<br>
 <br>
-Name - System Administrator: Aron Gomez <br>
+Name - <b>System Administrator:</b> Aron Gomez <br>
 Username: agvillena@pve <br>
 Password: xxxxx <br>
 <br>
-Name - System Administrator: Diana Del Valle <br>
+Name - <b>System Administrator:</b> Diana Del Valle <br>
 Username: dvalle@pve <br>
 Password: xxxxx <br>
 
