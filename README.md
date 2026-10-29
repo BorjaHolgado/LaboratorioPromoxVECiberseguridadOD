@@ -16,7 +16,7 @@ Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 
 # Equipo y Roles:
 
-Roles de usuario creados y el papel que desempeña cada usuario en el proyecto.
+Roles de usuario creados y el perfil que desempeña cada usuario en el proyecto.
 
 Grupos: AdminUsers: Grupo con permisos de administración, creación, modificación y eliminación en el Datacenter.  <br>
 Grupos: UsuariosNormales: 
