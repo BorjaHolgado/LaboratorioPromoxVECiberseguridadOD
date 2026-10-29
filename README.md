@@ -31,7 +31,7 @@ Name - <b>Tester de Software:</b> Roberto <br>
 Username: roberto@pve <br>
 Password: xxxxx <br>
 
-Name - <b>Tester de Software: Matias <br>
+Name - <b>Tester de Software:</b> Matias <br>
 Username: matias@pve <br>
 Password: xxxxx <br>
 
