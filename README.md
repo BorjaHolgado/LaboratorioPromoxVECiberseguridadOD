@@ -7,7 +7,7 @@ La finalidad de este proyecto, es la elaboración de un entorno de pruebas, en u
 
 # Características Técnicas de la maquina:
 
-Esta es al version del producto instalado de la version Proxmox y la forma de conexion.
+Version del producto instalado, del fabricante Proxmox y la forma de conexión.
 
 Version de Promax: Virtual Environment 8.3.0 <br>
 Nombre Host: <b>SRVESMA01</b> <br>
