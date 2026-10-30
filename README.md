@@ -3,7 +3,9 @@
 # Descripcion del Proyecto:
 
 Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01.
-La finalidad de este proyecto, es la elaboración de un entorno de pruebas, en una maquina con entorno virtualizado y la división de tareas a cada alumno.
+La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, en una maquina con entorno virtualizado y la división de tareas a cada alumno.
+
+El sistema operativo a revisar será la ISO de MAX Educamadrid, descargada de https://www.educa2.madrid.org/web/max
 
 # Características Técnicas de la maquina:
 
