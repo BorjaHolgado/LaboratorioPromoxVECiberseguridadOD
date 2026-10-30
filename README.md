@@ -8,6 +8,7 @@ La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, 
 El sistema operativo a revisar será la ISO de MAX Educamadrid, descargada de https://www.educa2.madrid.org/web/max
 
 <a href="https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/" target="_blank" rel="noopener noreferrer">Visitar 
+
 <br><br>Descarga directa, version MAX-10.0: <br><br>
 
 https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/
