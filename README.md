@@ -57,5 +57,5 @@ Password: xxxxx <br>
 
 
 
-
-
+- Comprobar su funcionamiento de la version
+- Revisar vulnerabilidades
