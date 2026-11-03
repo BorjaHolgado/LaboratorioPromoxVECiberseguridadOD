@@ -5,7 +5,7 @@
 Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y Defensiva SRVESMAD01.
 La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, en una maquina con entorno virtualizado con el software de libre distribucion Promox y la división de tareas a cada alumno.
 
-El sistema operativo primero a revisar será la ISO de la pagina web de MAX Educamadrid: https://www.educa2.madrid.org/web/max
+El sistema operativo primero a revisar será la ISO de software libre de la pagina web de MAX Educamadrid: https://www.educa2.madrid.org/web/max
 
 <br>Descarga directa, version MAX-10.0: <br>
 
