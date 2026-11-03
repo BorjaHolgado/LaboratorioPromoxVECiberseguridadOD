@@ -57,6 +57,10 @@ Password: xxxxx <br>
 
 
 
-
+SO MAX
 - Comprobar funcionamiento de la version
 - Revisar vulnerabilidades
+
+SO Red Hat
+- Comprobar funcionaminto de la version
+- Instalar Wazu
