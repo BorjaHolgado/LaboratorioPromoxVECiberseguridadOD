@@ -59,10 +59,9 @@ Password: xxxxx <br>
 
 En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
-Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento.
+Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores.
 
-
-
+<br><br><br>
 
 SO MAX
 - Comprobar funcionamiento de la version
