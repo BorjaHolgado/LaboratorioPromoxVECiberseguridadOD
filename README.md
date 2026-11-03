@@ -55,6 +55,13 @@ Name - <b>Tester de Software:</b> <s> Matias </s> <br>
 Username: <s> matias@pve </s> <br>
 Password: xxxxx <br>
 
+# Sistema SO MAX por dvalle
+
+En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
+
+Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento.
+
+
 
 
 SO MAX
