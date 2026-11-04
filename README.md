@@ -57,7 +57,7 @@ Name - <b>Tester de Software:</b> <s> Matias </s> <br>
 Username: <s> matias@pve </s> <br>
 Password: xxxxx <br>
 
-# 1.  Sistema SO MAX por dvalle
+# 1.  Instalacion sistema SO MAX por dvalle
 
 En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
