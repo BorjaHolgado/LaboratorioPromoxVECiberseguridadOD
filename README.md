@@ -20,7 +20,7 @@ Nombre Host: <b>SRVESMA01</b> <br>
 DNS: 9.9.9.9 <br>
 Web a conectar en un navegador: https://192.168.1.243:8006 <br>
 IP: 192.168.1.243 <br>
-Intel Core I3
+Modelo: Intel Core I3
 
 # Equipo tecnico y Roles:
 
@@ -62,14 +62,14 @@ En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la desc
 
 Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores.
 
+(Deshabilitado, "$ sudo passwd -dl alumno")
+<br>
+Habilitar: $ sudo passwd alumno
+
 Usuario: <s> Alumno </s>
 <br>
 Contraseña: <s> alumno </s>
 <br><br>
-
-(Deshabilitado, "$ sudo passwd -dl alumno")
-<br>
-Habilitar: $ sudo passwd alumno
 
 Usuario: Madrid
 <br>
