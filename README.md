@@ -19,7 +19,7 @@ Version de Promax: Virtual Environment 8.3.0 <br>
 Nombre Host: <b>SRVESMA01</b> <br>
 DNS: 9.9.9.9 <br>
 Web a conectar en un navegador: https://192.168.1.243:8006 <br>
-IP: 192.168.1.243
+IP: 192.168.1.243 <br>
 Intel Core I3
 
 # Equipo tecnico y Roles:
