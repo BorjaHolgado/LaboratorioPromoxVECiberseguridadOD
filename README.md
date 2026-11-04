@@ -66,6 +66,15 @@ Usuario: <s> Alumno </s>
 <br>
 Contraseña: <s> alumno </s>
 <br><br>
+
+Usuario: Alumno
+<br>
+Contraseña: alumno
+<br>
+(Deshabilitado, "$ sudo passwd -dl alumno")
+<br>
+Habilitar: $ sudo passwd alumno
+
 Usuario: Madrid
 <br>
 Contraseña: cmadrid
