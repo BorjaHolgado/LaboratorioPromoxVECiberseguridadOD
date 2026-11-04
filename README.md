@@ -62,6 +62,7 @@ En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la desc
 
 Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores.
 
+Mediante terminal deshabilitamos el usuario alumno, por que no guarda ningún cambio una vez se logue en el sistema y cierra sesión en la cuenta.
 (Deshabilitado, "$ sudo passwd -dl alumno")
 <br>
 Habilitar: $ sudo passwd alumno
@@ -69,8 +70,7 @@ Habilitar: $ sudo passwd alumno
 Usuario: <s> Alumno </s>
 <br>
 Contraseña: <s> alumno </s>
-<br><br>
-
+<br>
 Usuario: Madrid
 <br>
 Contraseña: cmadrid
