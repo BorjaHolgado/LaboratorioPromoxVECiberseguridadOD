@@ -78,7 +78,8 @@ Contraseña: profesor
 
 SO MAX
 - Comprobar funcionamiento de la version
-- Revisar vulnerabilidades
+- Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador
+- Instalar el agente de Wazu, en el usuario profesor.
 
 SO Red Hat
 - Comprobar funcionaminto de la version
