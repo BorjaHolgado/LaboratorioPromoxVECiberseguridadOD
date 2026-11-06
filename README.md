@@ -61,7 +61,7 @@ Password: xxxxx <br>
 
 En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
-Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores.
+Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores. IP a: 192.168.1.72
 
 Mediante terminal deshabilitamos el usuario alumno, por que no guarda ningún cambio una vez se logue en el sistema y cierra sesión en la cuenta. Trabajaremos con el usuario Madrid y Profesor.
 <br>
@@ -73,7 +73,7 @@ Usuario: <s> Alumno </s>
 <br>
 Contraseña: <s> alumno </s>
 <br><br>
-Usuario: Madrid
+Usuario (root): Madrid
 <br>
 Contraseña: cmadrid
 <br><br>
@@ -84,10 +84,13 @@ Contraseña: profesor
 <br><br><br>
 
 SO MAX
+- ¿Como conectar a la maquina por escritorio remoto?
 - Comprobar funcionamiento de la version
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador
 - Instalar el agente de Wazu, en el usuario profesor.
 
 SO Red Hat
+- Conectar SSH
+- ¿Como conectar a la maquina por escritorio remoto?
 - Comprobar funcionaminto de la version
 - Instalar Wazu
