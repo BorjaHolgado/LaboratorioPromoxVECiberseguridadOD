@@ -85,12 +85,11 @@ Contraseña: profesor
 
 SO MAX
 - ¿Como conectar a la maquina por escritorio remoto?
-- Comprobar funcionamiento de la version
-- Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador
+- Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
 SO Red Hat
-- Conectar SSH
+- Conectar SSH.
 - ¿Como conectar a la maquina por escritorio remoto?
-- Comprobar funcionaminto de la version
-- Instalar Wazu
+- Comprobar funcionaminto de la version.
+- Instalar Servidor Wazu.
