@@ -85,6 +85,8 @@ Contraseña: profesor
 
 # 2.  Instalacion sistema SO ALMALINUX por dvalle
 
+192.168.1.147
+
 <br><br><br>
 
 SO MAX
