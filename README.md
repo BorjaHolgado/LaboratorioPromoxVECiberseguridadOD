@@ -6,11 +6,13 @@ Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y
 La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, en una maquina con entorno virtualizado con el software de libre distribucion Promox y la división de tareas a cada alumno.
 
 
-1.  El sistema operativo a revisar será la ISO de software libre de la pagina web de MAX Educamadrid: https://www.educa2.madrid.org/web/max
+1.  El sistema operativo a revisar será la ISO de software libre de la pagina web de MAX Educamadrid, este sera el equipo cliente: https://www.educa2.madrid.org/web/max
 
 <br>Descarga directa, version MAX-10.0: <br>
 
 https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/
+
+2.  El sistema operativo a revisar sera el ISO de software libre de Almax 9.7:
 
 # Características Técnicas de la maquina:
 
@@ -80,6 +82,8 @@ Contraseña: cmadrid
 Usuario: Profesor
 <br>
 Contraseña: profesor
+
+# 2.  Instalacion sistema SO ALMALINUX por dvalle
 
 <br><br><br>
 
