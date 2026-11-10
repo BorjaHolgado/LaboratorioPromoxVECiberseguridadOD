@@ -14,7 +14,7 @@ https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/
 
 2.  El sistema operativo a revisar sera el ISO de software libre de Almax 9.7:
 
-# Características Técnicas de la maquina:
+# Características Técnicas de la maquina Host:
 
 Version del producto instalado, del fabricante Proxmox y la forma de conexión.
 
@@ -85,7 +85,9 @@ Contraseña: profesor
 
 # 2.  Instalacion sistema SO ALMALINUX por dvalle
 
+Hostname: 
 192.168.1.147
+
 
 <br><br><br>
 
