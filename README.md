@@ -67,7 +67,7 @@ Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a c
 
 Mediante terminal deshabilitamos el usuario alumno, por que no guarda ningún cambio una vez se logue en el sistema y cierra sesión en la cuenta. Trabajaremos con el usuario Madrid y Profesor.
 <br><br>
-(Deshabilitado, "$ sudo passwd -dl alumno")
+<b>(Deshabilitado, "$ sudo passwd -dl alumno")<b/>
 <br>
 Habilitar: $ sudo passwd alumno
 
@@ -87,7 +87,8 @@ Contraseña: profesor
 
 Hostname: 
 IP: 192.168.1.147
-sudo dnf update
+<br>
+<b>sudo dnf update</b>
 <br><br>
 Usuario (root): root
 <br>
