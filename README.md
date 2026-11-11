@@ -61,7 +61,7 @@ Password: xxxxx <br>
 
 # 1.  Instalacion sistema SO MAX por dvalle:
 
-En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
+En la documentación, :memo: Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
 Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores. Hostname: max10 , IP: 192.168.1.72
 
@@ -120,7 +120,7 @@ systemctl enable telnet.socket
 systemctl start telnet.socket
 </b>
 <br><br>
-  2.Instalar Webmin - Ver docuemnto :memo:: InstalacionWebmin_11112026.docx
+  2.Instalar Webmin - :memo:: InstalacionWebmin_11112026.docx
 
 https://download.webmin.dev/
 
