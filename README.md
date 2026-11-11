@@ -117,7 +117,8 @@ systemctl status telnet.socket
 systemctl enable telnet.socket
 <br>
 systemctl start telnet.socket
-</b><br><br>
+</b>
+<br><br>
   2.Instalar Webmin
 
 https://download.webmin.dev/
