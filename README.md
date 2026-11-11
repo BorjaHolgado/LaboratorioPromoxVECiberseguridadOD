@@ -12,7 +12,7 @@ La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, 
 
 https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/
 
-2.  El sistema operativo a revisar sera el ISO de software libre de Almax 9.7:
+2.  El sistema operativo a revisar sera el ISO de software libre de Almax 9.7, que ara de equipo servidor: https://almalinux.org/es/
 
 # Características Técnicas de la maquina Host:
 
@@ -101,13 +101,18 @@ Usuario: user
 <br>
 Contraseña: Alm.Us.99
 
-Instalamos telnet en la maquina:
+  1.Instalamos telnet en la maquina:
+<br>
 sudo dnf update
+<br>
 sudo dnf install telnet
+<br>
 sudo dnf install telnet.server
+<br>
 systemctl status telnet.socket
-
+<br>
 systemctl enable telnet.socket
+<br>
 systemctl start telnet.socket
 
 
