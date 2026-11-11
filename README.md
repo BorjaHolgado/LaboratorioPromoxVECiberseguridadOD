@@ -122,7 +122,7 @@ systemctl start telnet.socket
 
 https://download.webmin.dev/
 
-dnf install /root/Descargas/webmin-2.671.202611110542-1.noarch.rpm
+<b>dnf install /root/Descargas/webmin-2.671.202611110542-1.noarch.rpm</b>
 
 
 
