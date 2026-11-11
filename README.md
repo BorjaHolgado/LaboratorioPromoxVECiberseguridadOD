@@ -67,8 +67,10 @@ Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a c
 
 Mediante terminal deshabilitamos el usuario alumno, por que no guarda ningún cambio una vez se logue en el sistema y cierra sesión en la cuenta. Trabajaremos con el usuario Madrid y Profesor.
 <br><br>
-<b>SRVESMA01</b> 
+
+<b> 
 (Deshabilitado, "$ sudo passwd -dl alumno")
+</b>
 
 <br>
 Habilitar: $ sudo passwd alumno
