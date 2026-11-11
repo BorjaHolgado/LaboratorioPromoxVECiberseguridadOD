@@ -59,7 +59,7 @@ Name - <b>Tester de Software:</b> <s> Matias </s> <br>
 Username: <s> matias@pve </s> <br>
 Password: xxxxx <br>
 
-# 1.  Instalacion sistema SO MAX por dvalle
+# 1.  Instalacion sistema SO MAX por dvalle:
 
 En la documentación, Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
@@ -85,7 +85,7 @@ Usuario: Profesor
 <br>
 Contraseña: profesor
 
-# 2.  Instalacion sistema SO ALMALINUX por dvalle
+# 2.  Instalacion sistema SO ALMALINUX por dvalle:
 
 Hostname: 
 IP: 192.168.1.147
