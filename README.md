@@ -88,11 +88,11 @@ Contraseña: profesor
 
 # 2.  Instalacion sistema SO ALMALINUX por dvalle:
 
-Hostname: 
+Hostname:locaslhost.localdomain
+<br>
 IP: 192.168.1.147
 <br>
-<b>sudo dnf update</b>
-<br><br>
+<br>
 Usuario (root): root
 <br>
 Contraseña: AlmaAdmin01
@@ -101,7 +101,15 @@ Usuario: user
 <br>
 Contraseña: Alm.Us.99
 
-Instalamos telnet en la maquina
+Instalamos telnet en la maquina:
+sudo dnf update
+sudo dnf install telnet
+sudo dnf install telnet.server
+systemctl status telnet.socket
+
+systemctl enable telnet.socket
+systemctl start telnet.socket
+
 
 
 
