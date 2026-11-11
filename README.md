@@ -71,6 +71,7 @@ Mediante terminal deshabilitamos el usuario alumno, por que no guarda ningún ca
 <b>
 <br>
 -Abrir un terminal-
+<br>
 Deshabilitado: "$ sudo passwd -dl alumno"
 <br>
 Habilitar: $ sudo passwd alumno</b>
