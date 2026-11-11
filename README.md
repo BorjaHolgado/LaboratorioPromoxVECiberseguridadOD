@@ -117,13 +117,12 @@ systemctl status telnet.socket
 systemctl enable telnet.socket
 <br>
 systemctl start telnet.socket
-</b>
+</b><br>
+  2.Instalar Webmin
 
+https://download.webmin.dev/
 
-
-
-
-
+dnf install /root/Descargas/webmin-2.671.202611110542-1.noarch.rpm
 
 
 
