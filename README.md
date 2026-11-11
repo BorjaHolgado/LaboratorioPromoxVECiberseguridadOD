@@ -105,7 +105,7 @@ Usuario: user
 Contraseña: Alm.Us.99
 
   1.Instalamos telnet en la maquina servidor.
-<br><br>
+<br><br><b>
 sudo dnf update
 <br>
 sudo dnf install telnet
@@ -132,7 +132,7 @@ https://download.webmin.dev/
 <br><br><br>
 
 SO MAX
-- ¿Como conectar a la maquina por escritorio remoto?
+- ¿Como conectar a la maquina por escritorio remoto? - OK Telnet, Webmin, FTP?
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
