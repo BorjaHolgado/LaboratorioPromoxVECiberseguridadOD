@@ -101,8 +101,8 @@ Usuario: user
 <br>
 Contraseña: Alm.Us.99
 
-  1.Instalamos telnet en la maquina:
-<br>
+  1.Instalamos telnet en la maquina.
+<br><b>
 sudo dnf update
 <br>
 sudo dnf install telnet
@@ -114,6 +114,7 @@ systemctl status telnet.socket
 systemctl enable telnet.socket
 <br>
 systemctl start telnet.socket
+</b>
 
 
 
