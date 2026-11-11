@@ -104,7 +104,7 @@ Usuario: user
 <br>
 Contraseña: Alm.Us.99
 
-  1.Instalamos telnet en la maquina servidor.
+  1.Instalamos telnet en la maquina servidor. Al conectar tenemos permisoso con el usuario "user" , luego podremos ejecutar el root, por seguridad.
 <br><br>
 <b>
 sudo dnf update
