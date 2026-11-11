@@ -91,7 +91,7 @@ Contraseña: profesor
 
 # 2.  Instalacion sistema SO ALMALINUX por dvalle:
 
-Hostname:locaslhost.localdomain
+Hostname: locaslhost.localdomain
 <br>
 IP: 192.168.1.147
 <br>
