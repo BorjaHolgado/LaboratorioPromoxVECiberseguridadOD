@@ -101,7 +101,7 @@ Usuario: user
 <br>
 Contraseña: Alm.Us.99
 
-  1.Instalamos telnet en la maquina.
+  1.Instalamos telnet en la maquina servidor.
 <br><b>
 sudo dnf update
 <br>
