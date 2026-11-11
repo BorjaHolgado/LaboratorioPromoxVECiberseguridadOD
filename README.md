@@ -125,7 +125,11 @@ systemctl start telnet.socket
 https://download.webmin.dev/
 
 <b>dnf install /root/Descargas/webmin-2.671.202611110542-1.noarch.rpm</b>
+<br><br>
+Con este comando observamos todos los servicios instalados en la maquina y que estan corriendo.
+<b>systemctl list-units --type=service --all<b>
 
+<img width="494" height="255" alt="image" src="https://github.com/user-attachments/assets/e0161cef-e1d6-4572-925a-2f9b82cb522a" />
 
 
 
