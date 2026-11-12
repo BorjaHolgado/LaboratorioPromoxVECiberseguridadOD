@@ -103,6 +103,9 @@ Contraseña: AlmaAdmin01
 Usuario: user
 <br>
 Contraseña: Alm.Us.99
+<br>
+https://docs.google.com/document/d/1dnL8Bg75REu1MLYeW7SWT0chT5SWy5JVLAHMHKQo7go/edit?usp=sharing
+<br>
 
   1.Instalamos telnet en la maquina servidor. Al conectar tenemos permisoso con el usuario "user" , luego podremos ejecutar el root, por seguridad.
 <br><br>
