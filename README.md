@@ -137,14 +137,14 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 
 
 
-<br><br><br>
+<br><br><br> *Chacklist
 
-SO/Distribucion MAX
+SO/Distribucion MAX IP: 192.168.1.72
 - ¿Como conectar a la maquina por escritorio remoto?
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
-SO/Distribucion ALMA
+SO/Distribucion ALMA IP: 192.168.1.147
 - Conectar SSH.
 -   Telnet-ok
 -   Webmin-ok
