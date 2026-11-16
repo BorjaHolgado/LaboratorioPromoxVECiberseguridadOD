@@ -140,7 +140,10 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 <br><br><br>
 
 SO MAX
-- ¿Como conectar a la maquina por escritorio remoto? - OK Telnet, Webmin, FTP?
+- ¿Como conectar a la maquina por escritorio remoto?
+-   Telnet-ok
+-   Webmin-ok
+-   FTP-?
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
