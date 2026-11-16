@@ -35,7 +35,7 @@ Grupos: UsuariosNormales:
 --Roles -- Grupos: AdminUsers  <br><br>
 Username: root <br>
 Password: xxxxx<br>
-Note: PAM
+Dominio: PAM
 <br>
 Name - <b>System Administrator:</b> Aron Gomez <br>
 Username: agvillena@pve <br>
