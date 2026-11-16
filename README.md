@@ -6,13 +6,13 @@ Laboratorio Promox Virtual Environment 8.3.0, Curso en Ciberseguridad Ofensiva y
 La finalidad de este proyecto, es la elaboración de un laboratorio de pruebas, en una maquina con entorno virtualizado con el software de libre distribucion Promox y la división de tareas a cada alumno.
 
 
-1.  El sistema operativo a revisar será la ISO de software libre de la pagina web de MAX Educamadrid, este sera el equipo cliente: https://www.educa2.madrid.org/web/max
+1.  El sistema operativo a revisar será la ISO de software libre/distribucion de la pagina web de MAX Educamadrid, este sera el equipo cliente: https://www.educa2.madrid.org/web/max
 
 <br>Descarga directa, version MAX-10.0: <br>
 
 https://ftp.rediris.es/mirror/MaX-Linux/MaXdesktop/
 
-2.  El sistema operativo a revisar sera el ISO de software libre de Almax 9.7, que ara de equipo servidor: https://almalinux.org/es/
+2.  El sistema operativo a revisar sera el ISO de software libre/distribucion de Almax 9.7, que ara de equipo servidor: https://almalinux.org/es/
 
 # Características Técnicas de la maquina Host:
 
@@ -60,7 +60,7 @@ Name - <b>Tester de Software:</b> <s> Matias </s> <br>
 Username: <s> matias@pve </s> <br>
 Password: xxxxx <br>
 
-# 1.  Instalacion sistema SO MAX por dvalle:
+# 1.  Instalacion distribucion MAX por dvalle:
 
 En la documentación, :memo: Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
@@ -90,7 +90,7 @@ Usuario: Profesor
 <br>
 Contraseña: profesor
 
-# 2.  Instalacion sistema SO ALMALINUX por dvalle:
+# 2.  Instalacion distribucion ALMALINUX por dvalle:
 
 Hostname: locaslhost.localdomain
 <br>
@@ -139,7 +139,7 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 
 <br><br><br>
 
-SO MAX
+SO/Distribucion MAX
 - ¿Como conectar a la maquina por escritorio remoto?
 -   Telnet-ok
 -   Webmin-ok
@@ -147,7 +147,7 @@ SO MAX
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
-SO Red Hat
+SO/Distribucion ALMA
 - Conectar SSH.
 - ¿Como conectar a la maquina por escritorio remoto?
 - Comprobar funcionaminto de la version.
