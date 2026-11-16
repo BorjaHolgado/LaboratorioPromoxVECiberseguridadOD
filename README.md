@@ -141,14 +141,14 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 
 SO/Distribucion MAX
 - ¿Como conectar a la maquina por escritorio remoto?
--   Telnet-ok
--   Webmin-ok
--   FTP-?
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
 SO/Distribucion ALMA
 - Conectar SSH.
+-   Telnet-ok
+-   Webmin-ok
+-   FTP-?
 - ¿Como conectar a la maquina por escritorio remoto?
 - Comprobar funcionaminto de la version.
 - Instalar Servidor Wazu.
