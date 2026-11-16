@@ -101,7 +101,7 @@ Usuario (root): root
 <br>
 Contraseña: AlmaAdmin01
 <br><br>
-Usuario: user
+Usuario (ssh): user
 <br>
 Contraseña: Alm.Us.99
 <br>
