@@ -137,6 +137,7 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 
 Nos logueamos con el usuario user y cambiamos al sudo su
 ufw disable
+apt update && apt install git
 
 
 
