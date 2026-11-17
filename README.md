@@ -135,9 +135,9 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 <br>
 3. Instalamos Wazuh
 
-Nos logueamos con el usuario user y cambiamos al sudo su
-ufw disable
-apt update && apt install git
+Nos logueamos con el usuario user y cambiamos al sudo su <br>
+ufw disable <br>
+apt update && apt install git <br>
 
 
 
