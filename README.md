@@ -150,7 +150,7 @@ Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
 
 
 
-<br><br><br> *Chacklist
+<br><br><br> *Checklist
 
 SO/Distribucion MAX IP: 192.168.1.72
 - ¿Como conectar a la maquina por escritorio remoto?
