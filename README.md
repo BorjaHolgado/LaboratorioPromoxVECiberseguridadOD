@@ -141,6 +141,9 @@ Nos logueamos con el usuario user y cambiamos al sudo su <br>
 Optamos por crear un usuario <b>sudo useradd bholgado</b> y la password <b>Clase12345678</b>
 Para verificar que el usuario esta creado en el sistema escribiremos <b>greep "bholgado" /etc/passwd</b><br>
 <img width="295" height="27" alt="image" src="https://github.com/user-attachments/assets/736206a1-4071-48e5-8d84-bb36ac923fb5" />
+Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
+
+
 
 
 
