@@ -138,6 +138,10 @@ Con este comando observamos todos los servicios instalados en la maquina y que e
 
 <img width="494" height="255" alt="image" src="https://github.com/user-attachments/assets/e0161cef-e1d6-4572-925a-2f9b82cb522a" />
 <br>
+
+WeB.
+![Uploading image.png…]()
+
 3. Instalamos Wazuh
 
 Nos logueamos con el usuario user y cambiamos al sudo su <br>
