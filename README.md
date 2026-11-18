@@ -98,7 +98,7 @@ IP: 192.168.1.147
 <br>
 <br>
 A continuación los usuarios del sistema, creados para la distribucion.
-<br>
+<br><br>
 Usuario (root): root
 <br>
 Contraseña: AlmaAdmin01
@@ -141,7 +141,7 @@ Con este comando observamos todos los servicios instalados en la maquina ALMALIN
 <img width="494" height="255" alt="image" src="https://github.com/user-attachments/assets/e0161cef-e1d6-4572-925a-2f9b82cb522a" />
 <br>
 
-Acceso a webmin (acceder con cualquier usurio del sistema): https://192.168.1.147:10000/
+Abrir un navegador y copiar la siguiente direccion (acceder con cualquier usurio del sistema): https://192.168.1.147:10000/
 
 3. Instalamos Wazuh
 
