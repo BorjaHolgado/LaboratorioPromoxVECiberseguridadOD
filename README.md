@@ -105,6 +105,11 @@ Usuario (ssh): user
 <br>
 Contraseña: Alm.Us.99
 <br>
+<br>
+Usuario (root): bholgado
+<br>
+Contraseña: Clase12345678
+<br><br>
 
   1.Instalamos telnet en la maquina servidor. Al conectar tenemos permisoso con el usuario "user" , luego podremos ejecutar el root, por seguridad. Una vez conectado por ssh su-
 <br><br>
