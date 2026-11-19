@@ -62,7 +62,7 @@ Password: xxxxx <br>
 
 # 1.  Instalacion distribucion MAX por dvalle:
 
-En la documentación, :memo: Notas Laboratorio Proxmox Virtual Environment esta la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
+En la documentación, :memo: Notas Laboratorio Proxmox Virtual Environment e la descripción de como instalar, paso a paso, la versión del sistema operativo MAX.
 
 Configuracion, de 4 GB de Ram y un disco duro de 32 GB de almacenamiento. Se a creado un backup a día 31 de Octubre del 2026, Full update, y Instalacion completa. A su vez, una Snapshots a 03 de noviembre del 2026, en caso de necesitar restablecer puntos anteriores. Hostname: max10 , IP: 192.168.1.72
 
@@ -113,7 +113,7 @@ Usuario (root): bholgado
 Contraseña: Clase12345678
 <br><br>
 
-  1.Instalamos telnet en la maquina servidor. Al conectar tenemos permisoso con el usuario "user" , luego podremos ejecutar el root, por seguridad. Una vez conectado por ssh su-
+  1.Instalamos SSH en la maquina servidor. Al conectar tenemos permisoso con el usuario "user" , luego podremos ejecutar el root, por seguridad. Una vez conectado por ssh su-
 <br><br>
 <b>
 sudo dnf update
@@ -143,7 +143,7 @@ Con este comando observamos todos los servicios instalados en la maquina ALMALIN
 
 Abrir un navegador y copiar la siguiente direccion (acceder con cualquier usurio del sistema): https://192.168.1.147:10000/
 
-3. Instalamos Wazuh
+3. Instalamos Wazuh:
 
 Nos logueamos con el usuario user y cambiamos al sudo su <br>
 <b>ufw disable</b> <br>
@@ -163,7 +163,7 @@ Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
 <br><br><br> *Checklist
 
 SO/Distribucion MAX IP: 192.168.1.72
-- ¿Como conectar a la maquina por escritorio remoto?
+- ¿Como conectar a la maquina por escritorio remoto? como alternativa SSH.
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
