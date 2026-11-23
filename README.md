@@ -152,6 +152,10 @@ Optamos por crear un usuario <b>sudo useradd bholgado</b> y la password <b>Clase
 Para verificar que el usuario esta creado en el sistema escribiremos <b>greep "bholgado" /etc/passwd</b><br>
 <img width="295" height="27" alt="image" src="https://github.com/user-attachments/assets/736206a1-4071-48e5-8d84-bb36ac923fb5" /><br>
 Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
+<br>
+<b>curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a</b
+<br>
+El servicio, no puede abierto ya que la ip 147, esta ocupada por el servicio Webmin.
 
 
 
@@ -169,9 +173,7 @@ SO/Distribucion MAX IP: 192.168.1.72
 
 SO/Distribucion ALMA IP: 192.168.1.147
 - Conectar SSH.
--   Telnet-ok
 -   Webmin-ok
 -   FTP-?
-- ¿Como conectar a la maquina por escritorio remoto?
+- ¿Como conectar a la maquina por escritorio remoto? - SSH - ok
 - Comprobar funcionaminto de la version.
-- Instalar Servidor Wazu.
