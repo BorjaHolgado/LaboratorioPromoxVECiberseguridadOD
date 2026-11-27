@@ -153,9 +153,9 @@ Para verificar que el usuario esta creado en el sistema escribiremos <b>greep "b
 <img width="295" height="27" alt="image" src="https://github.com/user-attachments/assets/736206a1-4071-48e5-8d84-bb36ac923fb5" /><br>
 Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
 <br>
-<b>curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a</b
+curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
 <br>
-El servicio, no puede abierto ya que la ip 147, esta ocupada por el servicio Webmin.
+
 
 
 
