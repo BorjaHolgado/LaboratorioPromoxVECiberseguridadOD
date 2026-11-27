@@ -153,7 +153,7 @@ Para verificar que el usuario esta creado en el sistema escribiremos <b>greep "b
 <img width="295" height="27" alt="image" src="https://github.com/user-attachments/assets/736206a1-4071-48e5-8d84-bb36ac923fb5" /><br>
 Damos permisos de root al usuario <b>sudo usermod -aG wheel bholgado</b>
 <br>
-curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+<b>curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh -a</b>
 <br>
 
 
@@ -167,12 +167,12 @@ curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-i
 <br><br><br> *Checklist
 
 SO/Distribucion MAX IP: 192.168.1.72
-- ¿Como conectar a la maquina por escritorio remoto? como alternativa SSH.
+- ¿Como conectar a la maquina por escritorio remoto? como alternativa SSH.-ok
 - Revisar vulnerabilidades / con el usuario profesor . El de alumno, debe de estar desactivado. Y el de Madrid es el que tiene permisos de administrador.
 - Instalar el agente de Wazu, en el usuario profesor.
 
 SO/Distribucion ALMA IP: 192.168.1.147
-- Conectar SSH.
+- Conectar SSH-ok
 -   Webmin-ok
 -   FTP-?
 - ¿Como conectar a la maquina por escritorio remoto? - SSH - ok
